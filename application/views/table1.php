@@ -19,6 +19,10 @@
             padding: 15px;
             text-align: center;
         }
+
+        img {
+        float: right;
+      }
     </style>
 </head>
 
@@ -28,6 +32,7 @@
             <div class="bg-dark p-4">
                 <h4 class="text-white">Table 1</h4>
                 <span class="text-muted">Pilih menu</span>
+                <img src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="click here" height="200px" width="200px" />
                 <div>
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li class="nav-item active">
