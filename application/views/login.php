@@ -6,7 +6,7 @@
     <meta name="author" content="Muhamad Nauval Azhar">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="description" content="This is a login page template based on Bootstrap 5">
-    <title>Bootstrap 5 Login Page</title>
+    <title>Menu Logins</title>
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css   ') ?>">
     <script type='text/javascript' src="<?php echo base_url(); ?>asset/js/login.js"></script>
 

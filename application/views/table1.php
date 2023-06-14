@@ -45,7 +45,7 @@
                             <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About US</a>
+                        <a class="nav-link" href="<?php echo site_url('aboutus')?>">About US</a>
                         </li>
 
                         <a class="nav-link" href="<?php echo site_url('home/logout'); ?>">Log Out</a>
