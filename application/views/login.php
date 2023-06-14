@@ -6,10 +6,10 @@
     <meta name="author" content="Muhamad Nauval Azhar">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="description" content="This is a login page template based on Bootstrap 5">
-    <title>Bootstrap 5 Login Page</title>
+    <title>Menu Logins</title>
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css   ') ?>">
     <script type='text/javascript' src="<?php echo base_url(); ?>asset/js/login.js"></script>
-
+    <link rel="shortcut icon" href="<?php echo base_url('asset/image/ai0001.jpeg') ?>">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 </head>
 
