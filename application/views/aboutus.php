@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>About US !</title>
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/home.css') ?>">
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
@@ -45,7 +45,7 @@
                             <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">About US</a>
+                        <a class="nav-link" href="<?php echo site_url('aboutus')?>">About US</a>
                         </li>
                         <li class="nav-item">
 
