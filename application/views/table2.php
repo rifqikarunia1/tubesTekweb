@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/home.css') ?>">
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-
+    <link rel="shortcut icon" href="<?php echo base_url('asset/image/ai0001.jpeg') ?>">
     <script src="<?php echo base_url('asset/css/home.js') ?>"></script>
 
 
@@ -20,7 +20,7 @@
         text-align: center;
     }
 
-    img {
+    img {s
         float: right;
       }
     </style>
