@@ -73,13 +73,9 @@
             <h2>! Selamat datang
 
                 <?php echo $this->session->userdata('username'); ?>!
-                di website sederhana kami !</h2>
-            <h2>Industri 4.0 (Artificial Intelligence)</h2>
-            <p align="center">AI (Artificial Intelligence) adalah teknologi yang mencakup pengembangan komputer dan
-                sistem komputer
-                yang mampu meniru dan mengeksekusi tugas yang biasanya membutuhkan kecerdasan manusia. AI mencakup
-                berbagai metode, algoritma, dan teknik yang memungkinkan komputer untuk memperoleh pengetahuan, belajar,
-                memahami, merencanakan, mengadaptasi, dan mengambil keputusan yang mirip dengan manusia.</p><br /><br />
+                di About Us !</h2>
+            <h2>Kelompok 1 Tekweb</h2>
+            <p align="center">Kelompok ini beranggotakan 4 orang yang merupakan anggota boyband</p><br /><br />
             <p><a class="btn btn-primary btn-lg" href="#" role="button">Mulai Belajar !</a></p>
         </center>
     </div>
@@ -128,7 +124,7 @@
     </div>
 
     <div class="container" align="justify">
-        <h1 align="center">Revolusi Perkembangan AI</h1>
+        <h1 align="center">Revolusi Para Anggota Kelompok 1</h1>
 
 
         <p align="justify">AI dapat Temukan inspirasi dan pengetahuan baru yang menarik di siniAI dapat digunakan dalam
@@ -154,12 +150,8 @@
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Peningkatan Kemampuan AI</h5>
-                    <p class="card-text" align="justify">Revolusi AI telah menghasilkan peningkatan yang signifikan
-                        dalam kemampuan
-                        komputer untuk memahami, menganalisis, dan belajar dari data. Algoritma pembelajaran mesin yang
-                        canggih dan teknik seperti deep learning telah memungkinkan sistem AI untuk mengenali pola yang
-                        kompleks,</p>
+                    <h5 class="card-title">Mohamad Aditya Mutaqin Ghozali</h5>
+                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!</p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
@@ -168,11 +160,8 @@
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Penerapan Luas</h5>
-                    <p class="card-text" align="justify">I telah diterapkan di berbagai sektor dan industri, termasuk
-                        kesehatan,transportasi, keuangan, manufaktur, pendidikan, dan banyak lagi. AI digunakan untuk
-                        meningkatkan
-                        efisiensi operasiona
+                    <h5 class="card-title">Rifqi Karunia Ibadirachman</h5>
+                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
                     </p>
                 </div>
                 <div class="card-footer">
@@ -180,14 +169,10 @@
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/helmyf.jpg') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Munculnya Teknologi Baru</h5>
-                    <p class="card-text" align="justify">Revolusi AI telah melahirkan teknologi baru yang memperluas
-                        batasan tradisional
-                        komputasi. Ini termasuk jaringan saraf tiruan (artificial neural networks), komputasi awan
-                        (cloud computing), Internet of Things (IoT), robotika, kendaraan otonom, chatbot, asisten
-                        virtual, dan banyak lagi. </p>
+                    <h5 class="card-title">Helmy Fauzan Wahyudiputra</h5>
+                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah! </p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
@@ -196,13 +181,8 @@
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Tantangan Etika dan Privasi</h5>
-                    <p class="card-text" align="justify">Revolusi AI juga membawa tantangan dan pertanyaan etis.
-                        Penggunaan data besar
-                        (big data), kecerdasan buatan yang mendalam (deep AI), dan algoritma yang mampu mengambil
-                        keputusan dapat menimbulkan masalah keadilan, privasi, dan bias. Penting untuk mengembangkan
-                        kerangka kerja etis dan regulasi yang memastikan penggunaan AI yang bertanggung jawab dan
-                        menghormati privasi serta kepentingan masyarakat.</p>
+                    <h5 class="card-title">Ryad Helmi Fadila</h5>
+                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!</p>
                 </div>
                 <div class="card-footer">
                     <small class="text-muted">Last updated 3 mins ago</small>
