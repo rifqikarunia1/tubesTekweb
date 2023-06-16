@@ -129,7 +129,7 @@
     <div class="container">
         <div class="card-deck">
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/punyaKepin.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Mohamad Aditya Mutaqin Ghozali</h5>
                     <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
@@ -138,18 +138,17 @@
                 <div class="card-footer">
                     <small class="text-muted">
 
-
                         <!-- Button trigger modal -->
-                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong1">
                             Detail Biodata
                         </button>
 
                         <!-- Modal -->
-                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal fade" id="exampleModalLong1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle1" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        <h5 class="modal-title" id="exampleModalLongTitle1">MOHAMAD ADITYA MUTTAQIN GHOZALI
                                         </h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span>
@@ -159,12 +158,12 @@
                                         <div class="countainer">
                                             <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
 
-                                            <div>Nama : Rifqi karunia Ibadirachman</div>
-                                            <div>NIM : 3411201008</div>
-                                            <div>TTL : Surakarta, 30 September 2001</div>
-                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
-                                            <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
-                                            <div>Status : JOMBLO !</div>
+                                            <div>Nama : Mohamad Aditya Muttaqin Ghozali</div>
+                                            <div>NIM : 3411201006</div>
+                                            <div>TTL : Bandung, 05 Juli 2002</div>
+                                            <div>Almat : Sariwangi, rt/rw 02/10, Parongpong, Bandung Barat</div>
+                                            <div>MOTO : Bermimpilah yang indah-indah, karena kalau bermimpi jatuh dari gedung itu pasti kaget </div>
+                                            <div>Status : OTW GA JOMBLO !</div>
 
                                         </div>
                                     </div>
@@ -175,12 +174,10 @@
                                 </div>
                             </div>
                         </div>
-
-
-
                     </small>
                 </div>
             </div>
+            
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
@@ -192,16 +189,16 @@
                     <small class="text-muted">
 
                         <!-- Button trigger modal -->
-                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong2">
                             Detail Biodata
                         </button>
 
                         <!-- Modal -->
-                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal fade" id="exampleModalLong2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle2" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        <h5 class="modal-title" id="exampleModalLongTitle2">RIFQI KARUNAIA IBADIRACHMAN
                                         </h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span>
@@ -242,16 +239,16 @@
                     <small class="text-muted">
 
                         <!-- Button trigger modal -->
-                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong3">
                             Detail Biodata
                         </button>
 
                         <!-- Modal -->
-                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal fade" id="exampleModalLong3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle3" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        <h5 class="modal-title" id="exampleModalLongTitle3">HELMY FAUZAN WAHYUDIPUTRA
                                         </h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span>
@@ -261,7 +258,7 @@
                                         <div class="countainer">
                                             <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
 
-                                            <div>Nama : Rifqi karunia Ibadirachman</div>
+                                            <div>Nama : Helmy Fauzan Wahyudiputra</div>
                                             <div>NIM : 3411201008</div>
                                             <div>TTL : Surakarta, 30 September 2001</div>
                                             <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
@@ -294,16 +291,16 @@
 
 
                         <!-- Button trigger modal -->
-                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong4">
                             Detail Biodata
                         </button>
 
                         <!-- Modal -->
-                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                        <div class="modal fade" id="exampleModalLong4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle4" aria-hidden="true">
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        <h5 class="modal-title" id="exampleModalLongTitle4">RYAD HELMI FADILA
                                         </h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span>
@@ -313,7 +310,7 @@
                                         <div class="countainer">
                                             <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
 
-                                            <div>Nama : Rifqi karunia Ibadirachman</div>
+                                            <div>Nama : Ryad Helmi Fadila</div>
                                             <div>NIM : 3411201008</div>
                                             <div>TTL : Surakarta, 30 September 2001</div>
                                             <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
@@ -337,7 +334,6 @@
             </div>
         </div>
     </div>
-
     <br>
     <br>
 
