@@ -21,8 +21,8 @@
         }
 
         img {
-        float: right;
-      }
+            float: right;
+        }
     </style>
 </head>
 
@@ -31,8 +31,9 @@
         <div class="collapse" id="navbarToggleExternalContent">
             <div class="bg-dark p-4">
                 <h4 class="text-white">Table 1</h4>
-                <span class="text-muted">Pilih menu</span>
                 <img src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="click here" height="200px" width="200px" />
+                <span class="text-muted">Pilih menu</span>
+
                 <div>
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li class="nav-item active">
@@ -45,7 +46,7 @@
                             <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="<?php echo site_url('aboutus')?>">About US</a>
+                            <a class="nav-link" href="<?php echo site_url('aboutus') ?>">About US</a>
                         </li>
 
                         <a class="nav-link" href="<?php echo site_url('home/logout'); ?>">Log Out</a>
