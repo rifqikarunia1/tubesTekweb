@@ -129,7 +129,7 @@
     <div class="container">
         <div class="card-deck">
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/punyaKepin.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/punyakepin.jpg') ?>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Mohamad Aditya Mutaqin Ghozali</h5>
                     <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
@@ -148,7 +148,8 @@
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLongTitle1">MOHAMAD ADITYA MUTTAQIN GHOZALI
+                                        <h5 class="modal-title" id="exampleModalLongTitle1">MOHAMAD ADITYA MUTTAQIN
+                                            GHOZALI
                                         </h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span>
@@ -156,13 +157,14 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="countainer">
-                                            <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
+                                            <img src="<?php echo base_url('asset/image/punyakepin.jpg') ?>" alt="" class="img-fluid">
 
                                             <div>Nama : Mohamad Aditya Muttaqin Ghozali</div>
                                             <div>NIM : 3411201006</div>
                                             <div>TTL : Bandung, 05 Juli 2002</div>
                                             <div>Almat : Sariwangi, rt/rw 02/10, Parongpong, Bandung Barat</div>
-                                            <div>MOTO : Bermimpilah yang indah-indah, karena kalau bermimpi jatuh dari gedung itu pasti kaget </div>
+                                            <div>MOTO : Bermimpilah yang indah-indah, karena kalau bermimpi jatuh dari
+                                                gedung itu pasti kaget </div>
                                             <div>Status : OTW GA JOMBLO !</div>
 
                                         </div>
@@ -177,7 +179,7 @@
                     </small>
                 </div>
             </div>
-            
+
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
@@ -256,7 +258,7 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="countainer">
-                                            <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
+                                            <img src="<?php echo base_url('asset/image/helmyf.jpg') ?>" alt="" class="img-fluid">
 
                                             <div>Nama : Helmy Fauzan Wahyudiputra</div>
                                             <div>NIM : 3411201008</div>
