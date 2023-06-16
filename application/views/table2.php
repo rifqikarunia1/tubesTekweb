@@ -21,7 +21,7 @@
     }
 
     img {
-        s float: right;
+        float: right;
     }
     </style>
 </head>
@@ -41,7 +41,7 @@
                                     class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo site_url('table1') ?>">table1</a>
+                            <a class="nav-link" href="<?php echo site_url('table1') ?>">Table1</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
