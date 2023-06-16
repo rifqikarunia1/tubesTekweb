@@ -13,15 +13,16 @@
 
 
     <style>
-    footer {
-        background-color: #333;
-        color: #fff;
-        padding: 15px;
-        text-align: center;
-    }
-    img {
-        float: right;
-      }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+        }
+
+        img {
+            float: right;
+        }
     </style>
 </head>
 
@@ -35,8 +36,7 @@
                 <div>
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li class="nav-item active">
-                            <a class="nav-link" href="<?php echo site_url('home') ?>">Home <span
-                                    class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="<?php echo site_url('home') ?>">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo site_url('table1') ?>">Table1</a>
@@ -45,7 +45,7 @@
                             <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="<?php echo site_url('aboutus')?>">About US</a>
+                            <a class="nav-link" href="<?php echo site_url('aboutus') ?>">About US</a>
                         </li>
                         <li class="nav-item">
 
@@ -58,9 +58,7 @@
         </div>
 
         <nav class="navbar navbar-dark bg-dark">
-            <button class="navbar-toggler" type="button" data-toggle="collapse"
-                data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent"
-                aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
         </nav>
@@ -90,25 +88,12 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="<?php echo base_url('asset/image/ai01.png') ?>" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5>Kelebihan yang dimiliki AI</h5>
-                            <p>Kemampuan pemrosesan dan analisis data yang cepat</p>
-                        </div>
+                        <img src="<?php echo base_url('asset/image/unjani.jpg') ?>" class="d-block w-100" alt="...">
+
                     </div>
                     <div class="carousel-item">
-                        <img src="<?php echo base_url('asset/image/ai02.jpg') ?>" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5>Kelebihan yang dimiliki AI</h5>
-                            <p>Kemampuan belajar dan adaptasi</p>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <img src="<?php echo base_url('asset/image/ai03.jpg') ?>" class="d-block w-100" alt="...">
-                        <div class="carousel-caption d-none d-md-block">
-                            <h5>Kelebihan yang dimiliki AI</h5>
-                            <p>Kapasitas untuk menangani tugas yang berulang dan kompleks</p>
-                        </div>
+                        <img src="<?php echo base_url('asset/image/unjani2.png') ?>" class="d-block w-100" alt="...">
+
                     </div>
                 </div>
                 <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
@@ -127,22 +112,18 @@
         <h1 align="center">Revolusi Para Anggota Kelompok 1</h1>
 
 
-        <p align="justify">AI dapat Temukan inspirasi dan pengetahuan baru yang menarik di siniAI dapat digunakan dalam
-            berbagai
-            bidang dan
-            aplikasi, termasuk pengenalan suara dan gambar, pemrosesan bahasa alami, penambangan data, analisis
-            prediktif, pengembangan otomasi, robotika, kendaraan otonom, asisten virtual, dan banyak lagi. Tujuan utama
-            dari AI adalah untuk meningkatkan kemampuan komputer untuk melakukan tugas-tugas yang biasanya memerlukan
-            kecerdasan manusia, baik itu dalam hal pemrosesan data yang kompleks, pengambilan keputusan, atau interaksi
-            dengan manusia..</p>
+        <p align="justify">Kami kelompok 1 bercita cita membuat boyband yang mengalahkan boyband terdahulu
+            yaitu SMASH! mengalahkan Koboy junior dan lain lain. Dan berkat koboi junior bubar kami menetapkan memberi
+            nama
+            boyband kami sebagai penerus mereka yaitu Koboi senior!!
+        </p>
 
-        <p>Pendekatan yang umum digunakan dalam pengembangan AI adalah pembelajaran mesin (machine learning), di mana
-            komputer diberi kemampuan untuk belajar dari data dan mengenali pola-pola yang berguna. Ada juga subbidang
-            AI lainnya seperti pengenalan pola (pattern recognition), logika dan penalaran (logic and reasoning),
-            pengolahan bahasa alami (natural language processing), dan sistem cerdas (intelligent systems).</p>
-        <p>"Pendidikan adalah kunci untuk membuka pintu emas ke kebebasan." - George Washington Carver</p>
-        <p>"Hidup adalah perjalanan yang menakjubkan. Nikmati setiap langkahnya." - Unknown</p>
-        <p>"Kegagalan adalah batu loncatan menuju kesuksesan." - Unknown</p>
+        <br>
+        <br>
+        <br>
+        <h1 align="center">Profile Kelompok 1</h1>
+
+
     </div>
 
     <div class="container">
@@ -151,41 +132,207 @@
                 <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Mohamad Aditya Mutaqin Ghozali</h5>
-                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!</p>
+                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
+                    </p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">
+
+
+                        <!-- Button trigger modal -->
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                            Detail Biodata
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        </h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="countainer">
+                                            <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
+
+                                            <div>Nama : Rifqi karunia Ibadirachman</div>
+                                            <div>NIM : 3411201008</div>
+                                            <div>TTL : Surakarta, 30 September 2001</div>
+                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
+                                            <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
+                                            <div>Status : JOMBLO !</div>
+
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </small>
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Rifqi Karunia Ibadirachman</h5>
                     <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
                     </p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">
+
+                        <!-- Button trigger modal -->
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                            Detail Biodata
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        </h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="countainer">
+                                            <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
+
+                                            <div>Nama : Rifqi karunia Ibadirachman</div>
+                                            <div>NIM : 3411201008</div>
+                                            <div>TTL : Surakarta, 30 September 2001</div>
+                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
+                                            <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
+                                            <div>Status : JOMBLO !</div>
+
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </small>
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/helmyf.jpg') ?>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Helmy Fauzan Wahyudiputra</h5>
-                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah! </p>
+                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
+                    </p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">
+
+                        <!-- Button trigger modal -->
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                            Detail Biodata
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        </h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="countainer">
+                                            <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
+
+                                            <div>Nama : Rifqi karunia Ibadirachman</div>
+                                            <div>NIM : 3411201008</div>
+                                            <div>TTL : Surakarta, 30 September 2001</div>
+                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
+                                            <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
+                                            <div>Status : JOMBLO !</div>
+
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </small>
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Ryad Helmi Fadila</h5>
-                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!</p>
+                    <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
+                    </p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">
+
+
+                        <!-- Button trigger modal -->
+                        <button align="center" type="button" class="btn btn-primary fluid-center" data-toggle="modal" data-target="#exampleModalLong">
+                            Detail Biodata
+                        </button>
+
+                        <!-- Modal -->
+                        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title" id="exampleModalLongTitle">RIFQI KARUNAIA IBADIRACHMAN
+                                        </h5>
+                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                            <span aria-hidden="true">&times;</span>
+                                        </button>
+                                    </div>
+                                    <div class="modal-body">
+                                        <div class="countainer">
+                                            <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
+
+                                            <div>Nama : Rifqi karunia Ibadirachman</div>
+                                            <div>NIM : 3411201008</div>
+                                            <div>TTL : Surakarta, 30 September 2001</div>
+                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
+                                            <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
+                                            <div>Status : JOMBLO !</div>
+
+                                        </div>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                        <button type="button" class="btn btn-primary">Save changes</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </small>
                 </div>
             </div>
         </div>
@@ -199,14 +346,11 @@
         <p>&copy; 2023 DSE A. Kelompok 1.</p>
     </footer>
 
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js"
-        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
     </script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js">
     </script>
