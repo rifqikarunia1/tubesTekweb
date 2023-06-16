@@ -1,14 +1,14 @@
 ###################
-What is CodeIgniter
+Cara menggunakan project ini
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+1. Download folder pada bagian code. akan mendownload berupa RAR extend.
+2. Extract RAR. dan pindahkan folder yang telah di extract kedalam folder htdoc XAMPP.
+3. import Sql kedalam mysql PHPmyadmin.
+4. buka browser dan ketikan localhost/tubes/index.php/home
+5. maka akan ada pada halaman login. User memiliki 2 opsi memasukan user atau password secara langsung atau Register.
+6. jika ingin login tanpa register maka masukan user : 123 Pass : 123
+7. Tampilan akan berganti pada halaman HOME
 
 *******************
 Release Information
