@@ -114,8 +114,7 @@
 
         <p align="justify">Kami kelompok 1 bercita cita membuat boyband yang mengalahkan boyband terdahulu
             yaitu SMASH! mengalahkan Koboy junior dan lain lain. Dan berkat koboi junior bubar kami menetapkan memberi
-            nama
-            boyband kami sebagai penerus mereka yaitu Koboi senior!!
+            nama boyband kami sebagai penerus mereka yaitu Koboi senior!!
         </p>
 
         <br>
@@ -162,7 +161,7 @@
                                             <div>Nama : Mohamad Aditya Muttaqin Ghozali</div>
                                             <div>NIM : 3411201006</div>
                                             <div>TTL : Bandung, 05 Juli 2002</div>
-                                            <div>Almat : Sariwangi, rt/rw 02/10, Parongpong, Bandung Barat</div>
+                                            <div>Alamat : Sariwangi, rt/rw 02/10, Parongpong, Bandung Barat</div>
                                             <div>MOTO : Bermimpilah yang indah-indah, karena kalau bermimpi jatuh dari
                                                 gedung itu pasti kaget </div>
                                             <div>Status : OTW GA JOMBLO !</div>
@@ -213,7 +212,7 @@
                                             <div>Nama : Rifqi karunia Ibadirachman</div>
                                             <div>NIM : 3411201008</div>
                                             <div>TTL : Surakarta, 30 September 2001</div>
-                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
+                                            <div>Alamat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
                                             <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
                                             <div>Status : JOMBLO !</div>
 
@@ -263,7 +262,7 @@
                                             <div>Nama : Helmy Fauzan Wahyudiputra</div>
                                             <div>NIM : 3411201013</div>
                                             <div>TTL : Cimahi, 25 Juni 2002</div>
-                                            <div>Almat : Komp Leuwigajah Permai Jl.Nusa Indah No.89/5 Cimahi Selatan</div>
+                                            <div>Alamat : Komp Leuwigajah Permai Jl.Nusa Indah No.89/5 Cimahi Selatan</div>
                                             <div>MOTO : Lakukan apa yang membuatmu senang, selain itu lupakan! </div>
                                             <div>Status : DIGANTUNG HEHE</div>
 
@@ -315,7 +314,7 @@
                                             <div>Nama : Ryad Helmi Fadila</div>
                                             <div>NIM : 3411201008</div>
                                             <div>TTL : Surakarta, 30 September 2001</div>
-                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
+                                            <div>Alamat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
                                             <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
                                             <div>Status : JOMBLO !</div>
 
