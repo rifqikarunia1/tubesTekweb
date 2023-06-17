@@ -200,7 +200,7 @@
                             <div class="modal-dialog" role="document">
                                 <div class="modal-content">
                                     <div class="modal-header">
-                                        <h5 class="modal-title" id="exampleModalLongTitle2">RIFQI KARUNAIA IBADIRACHMAN
+                                        <h5 class="modal-title" id="exampleModalLongTitle2">RIFQI KARUNIA IBADIRACHMAN
                                         </h5>
                                         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                             <span aria-hidden="true">&times;</span>
@@ -261,11 +261,11 @@
                                             <img src="<?php echo base_url('asset/image/helmyf.jpg') ?>" alt="" class="img-fluid">
 
                                             <div>Nama : Helmy Fauzan Wahyudiputra</div>
-                                            <div>NIM : 3411201008</div>
-                                            <div>TTL : Surakarta, 30 September 2001</div>
-                                            <div>Almat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
-                                            <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
-                                            <div>Status : JOMBLO !</div>
+                                            <div>NIM : 3411201013</div>
+                                            <div>TTL : Cimahi, 25 Juni 2002</div>
+                                            <div>Almat : Komp Leuwigajah Permai Jl.Nusa Indah No.89/5 Cimahi Selatan</div>
+                                            <div>MOTO : Lakukan apa yang membuatmu senang, selain itu lupakan! </div>
+                                            <div>Status : DIGANTUNG HEHE</div>
 
                                         </div>
                                     </div>
