@@ -33,7 +33,7 @@
                 <h4 class="text-white">Selamat datang di aplikasi sederhana!!!</h4>
                 <img src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="click here" height="200px" width="200px" />
 
-                <span class="text-muted">Pilih menu</span>
+                <span class="text-muted">Pilih Menu</span>
                 <div>
                     <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                         <li class="nav-item active">
