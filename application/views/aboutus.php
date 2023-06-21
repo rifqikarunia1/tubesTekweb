@@ -281,7 +281,7 @@
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/test.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/ryad.jpg') ?>" alt="Card image cap">
                 <div class="card-body">
                     <h5 class="card-title">Ryad Helmi Fadila</h5>
                     <p class="card-text" align="justify">Untuk melihat biodata lengkap Kami, silahkan klik link dibawah!
@@ -309,14 +309,14 @@
                                     </div>
                                     <div class="modal-body">
                                         <div class="countainer">
-                                            <img src="<?php echo base_url('asset/image/rifqi.jpeg') ?>" alt="" class="img-fluid">
+                                            <img src="<?php echo base_url('asset/image/ryad.jpg') ?>" alt="" class="img-fluid">
 
                                             <div>Nama : Ryad Helmi Fadila</div>
                                             <div>NIM : 3411201008</div>
-                                            <div>TTL : Surakarta, 30 September 2001</div>
-                                            <div>Alamat : Cimacan, rt 01/05, Cipanas, Cianjur</div>
-                                            <div>MOTO : Bermimpilah dalam hidup tetapi jangan hidup dalam mimpi </div>
-                                            <div>Status : JOMBLO !</div>
+                                            <div>TTL : Bandung, 11 januari 2001</div>
+                                            <div>Alamat : kp gugunungan , padalarang , bandung barat</div>
+                                            <div>MOTO : jangan terima keadaan harus dapat merubah keadaan </div>
+                                            <div>Status : order </div>
 
                                         </div>
                                     </div>
