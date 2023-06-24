@@ -8,15 +8,13 @@
 
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <title>Document</title>
+    <title>Tambah data Table 2</title>
 
     <style>
-    label {
-        display: inline-block;
-        width: 100px;
-    }
-
-    
+        label {
+            display: inline-block;
+            width: 100px;
+        }
     </style>
 </head>
 
