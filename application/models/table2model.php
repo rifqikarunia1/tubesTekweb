@@ -36,7 +36,7 @@ class table2model extends CI_Model
         return $this->db->update("table2", $table2);
     }
 
-    function deleteTable1($id)
+    function deletetable2($id)
     {
         $this->db->where("id", $id);
         return $this->db->delete("table2");
