@@ -333,7 +333,7 @@
                                                 class="img-fluid">
 
                                             <div>Nama : Ryad Helmi Fadila</div>
-                                            <div>NIM : 3411201008</div>
+                                            <div>NIM : 3411201016</div>
                                             <div>TTL : Bandung, 11 januari 2001</div>
                                             <div>Alamat : kp gugunungan , padalarang , bandung barat</div>
                                             <div>MOTO : jangan terima keadaan harus dapat merubah keadaan </div>
