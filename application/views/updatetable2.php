@@ -8,45 +8,45 @@
 
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <title>Document</title>
+    <title>Update Table 2</title>
 
     <style>
-    label {
-        display: inline-block;
-        width: 100px;
-    }
+        label {
+            display: inline-block;
+            width: 100px;
+        }
     </style>
 </head>
 
 <body>
-    <h1>Update Data table1</h1>
+    <h1>Update Data table2</h1>
     <br>
 
     <div class="container">
 
 
         <br>
-        <form action="<?php echo site_url('table1/prosesupdate/' . $table1->id); ?>" method="post">
+        <form action="<?php echo site_url('table1/prosesupdate/' . $table2->id); ?>" method="post">
             <div class="form-group">
                 <label>Nama : </label>
-                <input type="text" name="nama" class="form-control" value="<?php echo $table1->nama ?>"><br>
+                <input type="text" name="nama" class="form-control" value="<?php echo $table2->nama ?>"><br>
             </div>
 
             <div class="form-group">
-                <label>penemuan : </label>
-                <input type="text" name="penemuan" class="form-control" value="<?php echo $table1->penemuan ?>"><br>
+                <label>Jenis : </label>
+                <input type="text" name="jenis" class="form-control" value="<?php echo $table2->jenis ?>"><br>
             </div>
 
             <div class="form-group">
                 <label>Tahun</label>
-                <input type="text" name="tahun" class="form-control" value="<?php echo $table1->tahun ?>"><br>
+                <input type="text" name="tahun" class="form-control" value="<?php echo $table2->tahun ?>"><br>
             </div>
 
             <input type="submit" value="update" class="btn btn-primary">
 
         </form>
         <br>
-        <a href="<?php echo site_url('table1') ?>" class="btn btn-danger">kembali</a>
+        <a href="<?php echo site_url('table2') ?>" class="btn btn-danger">kembali</a>
     </div>
 </body>
 

@@ -52,7 +52,7 @@ class table2 extends CI_Controller
 
     public function delete($id)
     {
-        $this->table2model->deleteTable2($id);
+        $this->table2model->deletetable2($id);
         redirect(site_url('table2'));
     }
 }
