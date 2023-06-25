@@ -8,9 +8,15 @@
 
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <title>Document</title>
+    <title>Tambah data Table 1</title>
 
     <style>
+<<<<<<< HEAD
+    label {
+        display: inline-block;
+        width: 100px;
+    }
+=======
         label {
             display: inline-block;
             width: 100px;
@@ -22,6 +28,7 @@
             height: 10vh;
         }
 
+>>>>>>> dca4531c3678bfb3bb8c72f3d95a8abe4af72cf9
     </style>
 </head>
 
