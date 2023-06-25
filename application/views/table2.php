@@ -67,7 +67,7 @@
 
     <div class="jumbotron">
         <center>
-            <h2> Form Table 1 </h2>
+            <h2> Form Table 2 </h2>
             <h2>Industri 4.0 (Artificial Intelligence)</h2>
             <p align="center">Memuat berbagai informasi penemu dan penemuan AI secara global. </p><br /><br />
             <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('table2/tambah') ?>" role="button">Tambah

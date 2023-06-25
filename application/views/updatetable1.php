@@ -8,7 +8,7 @@
 
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <title>Document</title>
+    <title>Update Table 1</title>
 
     <style>
     label {
