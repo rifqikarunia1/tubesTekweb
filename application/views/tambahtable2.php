@@ -15,12 +15,20 @@
             display: inline-block;
             width: 100px;
         }
+		    .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 10vh;
+        }
     </style>
 </head>
 
 <body>
+    <div class="center">
     <h1>Tambah Data table2</h1>
     <br>
+    </div>
 
     <div class="container">
 
@@ -43,10 +51,9 @@
             </div>
 
             <input type="submit" value="Tambah" class="btn btn-primary">
-
+			<a href="<?php echo site_url('table2') ?>" class="btn btn-danger">kembali</a>
         </form>
         <br>
-        <a href="<?php echo site_url('table2') ?>" class="btn btn-danger">kembali</a>
     </div>
 </body>
 
