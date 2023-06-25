@@ -8,21 +8,35 @@
 
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <title>Document</title>
+    <title>Tambah data Table 1</title>
 
     <style>
+<<<<<<< HEAD
+    label {
+        display: inline-block;
+        width: 100px;
+    }
+=======
         label {
             display: inline-block;
             width: 100px;
         }
+		.center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 10vh;
+        }
 
-        
+>>>>>>> dca4531c3678bfb3bb8c72f3d95a8abe4af72cf9
     </style>
 </head>
 
 <body>
+    <div class="center">
     <h1>Tambah Data table1</h1>
     <br>
+    </div>
 
     <div class="container">
 
@@ -45,10 +59,9 @@
             </div>
 
             <input type="submit" value="Tambah" class="btn btn-primary">
-
+ 			<a href="<?php echo site_url('table1') ?>" class="btn btn-danger">kembali</a>
         </form>
         <br>
-        <a href="<?php echo site_url('table1') ?>" class="btn btn-danger">kembali</a>
     </div>
 </body>
 
