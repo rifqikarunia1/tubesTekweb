@@ -1,6 +1,6 @@
 ###################
-Cara menggunakan project ini
-
+Cara menggunakan project ini :
+###################
 
 dengan anggota : 
 
@@ -8,7 +8,6 @@ M Aditya M.G - 3411201006
 Rifqi karunia I - 3411201008
 Helmi Fauzan W. - 3411201013
 Ryad Helmi Fadila - 3411201016
-###################
 
 1. Download folder pada bagian code. akan mendownload berupa RAR extend.
 2. Extract RAR. dan pindahkan folder yang telah di extract kedalam folder htdoc XAMPP.
