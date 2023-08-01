@@ -8,7 +8,7 @@
 
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <title>Tambah data Table 2</title>
+    <title>Tambah Data Produk</title>
 
     <style>
         label {
@@ -26,7 +26,7 @@
 
 <body>
     <div class="center">
-    <h1>Tambah Data table2</h1>
+    <h1>Tambah Data Produk</h1>
     <br>
     </div>
 
@@ -36,17 +36,17 @@
         <br>
         <form action="<?php echo site_url('table2/prosestambah'); ?>" method="post">
             <div class="form-group">
-                <label>Nama : </label>
+                <label>Jumlah Produk : </label>
                 <input type="text" name="nama" class="form-control"><br>
             </div>
 
             <div class="form-group">
-                <label>jenis : </label>
+                <label>Produk : </label>
                 <input type="text" name="jenis" class="form-control"><br>
             </div>
 
             <div class="form-group">
-                <label>Tahun</label>
+                <label>Warna : </label>
                 <input type="text" name="tahun" class="form-control"><br>
             </div>
 

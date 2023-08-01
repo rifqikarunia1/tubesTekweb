@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table2</title>
+    <title>Produk</title>
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/home.css') ?>">
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <link rel="shortcut icon" href="<?php echo base_url('asset/image/ai0001.jpeg') ?>">
+    <link rel="shortcut icon" href="<?php echo base_url('asset/image/logo.png') ?>">
     <script src="<?php echo base_url('asset/css/home.js') ?>"></script>
 
 
@@ -39,10 +39,10 @@
                             <a class="nav-link" href="<?php echo site_url('home') ?>">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo site_url('table1') ?>">Table1</a>
+                            <a class="nav-link" href="<?php echo site_url('table1') ?>">Daftar Pegawai</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
+                            <a class="nav-link" href="<?php echo site_url('table2') ?>">Tabel Produk</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo site_url('aboutus') ?>">About US</a>
@@ -67,11 +67,11 @@
 
     <div class="jumbotron">
         <center>
-            <h2> Form Table 2 </h2>
-            <h2>Industri 4.0 (Artificial Intelligence)</h2>
-            <p align="center">Memuat berbagai informasi penemu dan penemuan AI secara global. </p><br /><br />
+            <h2> Informasi Produk </h2>
+            <h2>CV. Cybercode Media Alternatif</h2>
+            <p align="center">Memuat berbagai informasi produk di CV.Cybercode Media Alternatif </p><br /><br />
             <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('table2/tambah') ?>" role="button">Tambah
-                    data</a></p>
+                    data produk</a></p>
         </center>
     </div>
 
@@ -79,9 +79,10 @@
         <table id="example" class="table table-striped table-bordered">
             <thead>
                 <tr>
-                    <th>Nama</th>
-                    <th>jenis</th>
-                    <th>Tahun</th>
+                    <th>Jumlah Produk</th>
+                    <th>Produk</th>
+                    <th>Warna</th>
+                    <th>Gambar Produk</th>
                     <th>aksi</th>
 
                 </tr>

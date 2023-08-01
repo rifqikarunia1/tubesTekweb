@@ -49,7 +49,7 @@
             </div>
 
             <div class="form-group">
-                <label>penemuan : </label>
+                <label>Bidang : </label>
                 <input type="text" name="penemuan" class="form-control"><br>
             </div>
 

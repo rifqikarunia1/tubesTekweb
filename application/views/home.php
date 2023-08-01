@@ -8,7 +8,7 @@
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/home.css') ?>">
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <link rel="shortcut icon" href="<?php echo base_url('asset/image/ai0001.jpeg') ?>">
+    <link rel="shortcut icon" href="<?php echo base_url('asset/image/logo.png') ?>">
     <script src="<?php echo base_url('asset/css/home.js') ?>"></script>
 
 
@@ -30,8 +30,8 @@
     <div class="pos-f-t">
         <div class="collapse" id="navbarToggleExternalContent">
             <div class="bg-dark p-4">
-                <h4 class="text-white">Selamat datang di aplikasi sederhana!!!</h4>
-                <img src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="click here" height="200px" width="200px" />
+                <h4 class="text-white">CYBERCODE MEDIA ALTERNATIF</h4>
+                <img src="<?php echo base_url('asset/image/logo.png') ?>" alt="click here" height="200px" width="200px" />
 
                 <span class="text-muted">Pilih Menu</span>
                 <div>
@@ -40,10 +40,10 @@
                             <a class="nav-link" href="<?php echo site_url('home') ?>">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo site_url('table1') ?>">Table1</a>
+                            <a class="nav-link" href="<?php echo site_url('table1') ?>">Daftar Pegawai</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
+                            <a class="nav-link" href="<?php echo site_url('table2') ?>">Tabel Produk</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo site_url('aboutus') ?>">About US</a>
@@ -69,17 +69,13 @@
 
     <div class="jumbotron">
         <center>
-            <h2>! Selamat datang
+            <h2> Selamat Datang
 
                 <?php echo $this->session->userdata('username'); ?>!
-                di website sederhana kami !</h2>
-            <h2>Industri 4.0 (Artificial Intelligence)</h2>
-            <p align="center">AI (Artificial Intelligence) adalah teknologi yang mencakup pengembangan komputer dan
-                sistem komputer
-                yang mampu meniru dan mengeksekusi tugas yang biasanya membutuhkan kecerdasan manusia. AI mencakup
-                berbagai metode, algoritma, dan teknik yang memungkinkan komputer untuk memperoleh pengetahuan, belajar,
-                memahami, merencanakan, mengadaptasi, dan mengambil keputusan yang mirip dengan manusia.</p><br /><br />
-            <p><a class="btn btn-primary btn-lg" href="#" role="button">Mulai Belajar !</a></p>
+                di Website Kami !</h2>
+            <h2>CYBERCODE MEDIA ALTERNATIF</h2>
+            <p align="center">Test</p><br /><br />
+            <p><a class="btn btn-primary btn-lg" href="http://[::1]/projectCMA/index.php/table2" role="button">Lihat Produk !</a></p>
         </center>
     </div>
 
@@ -93,23 +89,23 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="<?php echo base_url('asset/image/ai01.png') ?>" class="d-block w-100" alt="...">
+                        <img src="<?php echo base_url('asset/image/logo2.jpg') ?>" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Kelebihan yang dimiliki AI</h5>
-                            <p>Kemampuan pemrosesan dan analisis data yang cepat</p>
+                            <h5>Kelebihan yang dimiliki Cybercode Media Alternatif</h5>
+                            <p>Memiliki beragam warna kain yang menarik</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="<?php echo base_url('asset/image/ai02.jpg') ?>" class="d-block w-100" alt="...">
+                        <img src="<?php echo base_url('asset/image/logo2.jpg') ?>" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Kelebihan yang dimiliki AI</h5>
+                            <h5>Kelebihan yang dimiliki CV. Cybercode Media Alternatif</h5>
                             <p>Kemampuan belajar dan adaptasi</p>
                         </div>
                     </div>
                     <div class="carousel-item">
-                        <img src="<?php echo base_url('asset/image/ai03.jpg') ?>" class="d-block w-100" alt="...">
+                        <img src="<?php echo base_url('asset/image/logo.png') ?>" class="d-block w-100" alt="...">
                         <div class="carousel-caption d-none d-md-block">
-                            <h5>Kelebihan yang dimiliki AI</h5>
+                            <h5>Kelebihan yang dimiliki CV. Cybercode Media Alternatif</h5>
                             <p>Kapasitas untuk menangani tugas yang berulang dan kompleks</p>
                         </div>
                     </div>
@@ -127,84 +123,62 @@
     </div>
 
     <div class="container" align="justify">
-        <h1 align="center">Revolusi Perkembangan AI</h1>
+        <h1 align="center">Cybercode Media Alternatif</h1>
 
 
-        <p align="justify">AI dapat Temukan inspirasi dan pengetahuan baru yang menarik di siniAI dapat digunakan dalam
-            berbagai
-            bidang dan
-            aplikasi, termasuk pengenalan suara dan gambar, pemrosesan bahasa alami, penambangan data, analisis
-            prediktif, pengembangan otomasi, robotika, kendaraan otonom, asisten virtual, dan banyak lagi. Tujuan utama
-            dari AI adalah untuk meningkatkan kemampuan komputer untuk melakukan tugas-tugas yang biasanya memerlukan
-            kecerdasan manusia, baik itu dalam hal pemrosesan data yang kompleks, pengambilan keputusan, atau interaksi
-            dengan manusia..</p>
+        <p align="justify">CV. Cybercode Media Alternatif merupakan sebuah perusahaan yang bergerak dibidang pengembangan perangkat lunak. Perusahaan ini
+            mengembangkan VR Games, Edukasi Software & Game, Animasi 3D.
+            Bukan hanya di bidang pengembangan perangkat lunak, CV. CMA ini juga memproduksi sebuah kain yang beraneka ragam jenis kain serta 
+            mempunyai warna yang beragam juga.
+        </p>
 
-        <p>Pendekatan yang umum digunakan dalam pengembangan AI adalah pembelajaran mesin (machine learning), di mana
-            komputer diberi kemampuan untuk belajar dari data dan mengenali pola-pola yang berguna. Ada juga subbidang
-            AI lainnya seperti pengenalan pola (pattern recognition), logika dan penalaran (logic and reasoning),
-            pengolahan bahasa alami (natural language processing), dan sistem cerdas (intelligent systems).</p>
-        <p>"Pendidikan adalah kunci untuk membuka pintu emas ke kebebasan." - George Washington Carver</p>
-        <p>"Hidup adalah perjalanan yang menakjubkan. Nikmati setiap langkahnya." - Unknown</p>
-        <p>"Kegagalan adalah batu loncatan menuju kesuksesan." - Unknown</p>
+        <p>Perusahaan ini berlokasi di Jl. HMS Mintareja Sarjana Hukum Jl. Ruko Town Place No.A-25, Baros Cimahi, Jawa Barat 40521.</p>
+        <p>"Jangan sia-siakan masa mudamu demi seorang wanita." - Saya</p>
+        <p>"Hidup adalah perjalanan, maka pergilah jalan-jalan." - Aku</p>
+        <p>"Kegagalan adalah batu loncatan menuju kesuksesan, maka kalo ada batu loncat saja." - Kamu</p>
     </div>
 
     <div class="container">
         <div class="card-deck">
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Peningkatan Kemampuan AI</h5>
-                    <p class="card-text" align="justify">Revolusi AI telah menghasilkan peningkatan yang signifikan
-                        dalam kemampuan
-                        komputer untuk memahami, menganalisis, dan belajar dari data. Algoritma pembelajaran mesin yang
-                        canggih dan teknik seperti deep learning telah memungkinkan sistem AI untuk mengenali pola yang
-                        kompleks,</p>
+                    <h5 class="card-title">Produk dari CV.CMA</h5>
+                    <p class="card-text" align="justify">Isi produk</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Last updated 1 mins ago</small>
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Penerapan Luas</h5>
-                    <p class="card-text" align="justify">I telah diterapkan di berbagai sektor dan industri, termasuk
-                        kesehatan,transportasi, keuangan, manufaktur, pendidikan, dan banyak lagi. AI digunakan untuk
-                        meningkatkan
-                        efisiensi operasiona
+                    <h5 class="card-title">Jenis Produk CV.CMA</h5>
+                    <p class="card-text" align="justify">Jenis produk
                     </p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Last updated 1 mins ago</small>
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Munculnya Teknologi Baru</h5>
-                    <p class="card-text" align="justify">Revolusi AI telah melahirkan teknologi baru yang memperluas
-                        batasan tradisional
-                        komputasi. Ini termasuk jaringan saraf tiruan (artificial neural networks), komputasi awan
-                        (cloud computing), Internet of Things (IoT), robotika, kendaraan otonom, chatbot, asisten
-                        virtual, dan banyak lagi. </p>
+                    <h5 class="card-title">Bidang Pekerjaan di CV.CMA</h5>
+                    <p class="card-text" align="justify">Bidang pekerjaan. </p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Last updated 1 mins ago</small>
                 </div>
             </div>
             <div class="card">
-                <img class="card-img-top" src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="Card image cap">
+                <img class="card-img-top" src="<?php echo base_url('asset/image/logo.png') ?>" alt="Card image cap">
                 <div class="card-body">
-                    <h5 class="card-title">Tantangan Etika dan Privasi</h5>
-                    <p class="card-text" align="justify">Revolusi AI juga membawa tantangan dan pertanyaan etis.
-                        Penggunaan data besar
-                        (big data), kecerdasan buatan yang mendalam (deep AI), dan algoritma yang mampu mengambil
-                        keputusan dapat menimbulkan masalah keadilan, privasi, dan bias. Penting untuk mengembangkan
-                        kerangka kerja etis dan regulasi yang memastikan penggunaan AI yang bertanggung jawab dan
-                        menghormati privasi serta kepentingan masyarakat.</p>
+                    <h5 class="card-title">Lokasi Perusahaan CV.CMA</h5>
+                    <p class="card-text" align="justify">Jl. HMS Mintareja Sarjana Hukum Jl. Ruko Town Place No.A-25, BarosCimahi, Jawa Barat 40521</p>
                 </div>
                 <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
+                    <small class="text-muted">Last updated 1 mins ago</small>
                 </div>
             </div>
         </div>
@@ -215,7 +189,7 @@
 
 
     <footer>
-        <p>&copy; 2023 DSE A. Kelompok 1.</p>
+        <p>&copy; 2023 CV. Cybercode Media Alternatif</p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">

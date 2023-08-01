@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Table1</title>
+    <title>Tabel Pegawai</title>
 
     <link rel="stylesheet" href="<?php echo base_url('asset/css/home.css') ?>">
     <link rel="stylesheet" href="<?php echo base_url('asset/css/bootstrap.min.css') ?>">
-    <link rel="shortcut icon" href="<?php echo base_url('asset/image/ai0001.jpeg') ?>">
+    <link rel="shortcut icon" href="<?php echo base_url('asset/image/logo.png') ?>">
 
     <script src="<?php echo base_url('asset/css/home.js') ?>"></script>
 
@@ -30,7 +30,7 @@
     <div class="pos-f-t">
         <div class="collapse" id="navbarToggleExternalContent">
             <div class="bg-dark p-4">
-                <h4 class="text-white">Table 1</h4>
+                <h4 class="text-white">Table Produk</h4>
                 <img src="<?php echo base_url('asset/image/ai0001.jpeg') ?>" alt="click here" height="200px" width="200px" />
                 <span class="text-muted">Pilih menu</span>
 
@@ -40,10 +40,10 @@
                             <a class="nav-link" href="<?php echo site_url('home') ?>">Home <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo site_url('table1') ?>">table1</a>
+                            <a class="nav-link" href="<?php echo site_url('table1') ?>">Daftar Pegawai</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="<?php echo site_url('table2') ?>">Table2</a>
+                            <a class="nav-link" href="<?php echo site_url('table2') ?>">Tabel Produk</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo site_url('aboutus') ?>">About US</a>
@@ -68,9 +68,9 @@
 
     <div class="jumbotron">
         <center>
-            <h2> Form Table 1 </h2>
-            <h2>Industri 4.0 (Artificial Intelligence)</h2>
-            <p align="center">Memuat berbagai informasi penemu dan penemuan AI secara global. </p><br /><br />
+            <h2> Form Tabel Pegawai </h2>
+            <h2>CV. Cybercode Media Alternatif</h2>
+            <p align="center">Memuat berbagai informasi dalam Perusahaan Kami. </p><br /><br />
             <p><a class="btn btn-primary btn-lg" href="<?php echo site_url('table1/tambah') ?>" role="button">Tambah
                     data</a></p>
         </center>
@@ -81,8 +81,8 @@
             <thead>
                 <tr>
                     <th>Nama</th>
-                    <th>Penemuan</th>
-                    <th>Tahun</th>
+                    <th>Bidang</th>
+                    <th>Tahun Masuk</th>
                     <th>aksi</th>
 
                 </tr>
